@@ -9,15 +9,29 @@
     "dev": "nodemon index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.9",
+    "@whiskeysockets/baileys": "^6.7.24",
+    "baileys": "github:WhiskeySockets/Baileys",
+    "dotenv": "^16.4.5",
     "pino": "^9.0.0",
     "pino-pretty": "^11.0.0",
-    "dotenv": "^16.4.5"
+    "qrcode-terminal": "^0.12.0",
+    "yt-dlp-exec": "^1.0.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
   },
   "engines": {
     "node": ">=18.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamabakwnavkwb-wm/gayan-gm-gaiya.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamabakwnavkwb-wm/gayan-gm-gaiya/issues"
+  },
+  "homepage": "https://github.com/jamabakwnavkwb-wm/gayan-gm-gaiya#readme"
 }
